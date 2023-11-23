@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Smitha\\Internship\\Projects\\SpecFlowProjectMarsLanguagesSkills\\SpecFlowProjectMarsLanguagesSkills.csproj": {}
+    "C:\\Smitha\\OnboardingTask\\SpecFlowProjectMarsLanguagesSkills\\SpecFlowProjectMarsLanguagesSkills.csproj": {}
   },
   "projects": {
-    "C:\\Smitha\\Internship\\Projects\\SpecFlowProjectMarsLanguagesSkills\\SpecFlowProjectMarsLanguagesSkills.csproj": {
+    "C:\\Smitha\\OnboardingTask\\SpecFlowProjectMarsLanguagesSkills\\SpecFlowProjectMarsLanguagesSkills.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Smitha\\Internship\\Projects\\SpecFlowProjectMarsLanguagesSkills\\SpecFlowProjectMarsLanguagesSkills.csproj",
+        "projectUniqueName": "C:\\Smitha\\OnboardingTask\\SpecFlowProjectMarsLanguagesSkills\\SpecFlowProjectMarsLanguagesSkills.csproj",
         "projectName": "SpecFlowProjectMarsLanguagesSkills",
-        "projectPath": "C:\\Smitha\\Internship\\Projects\\SpecFlowProjectMarsLanguagesSkills\\SpecFlowProjectMarsLanguagesSkills.csproj",
+        "projectPath": "C:\\Smitha\\OnboardingTask\\SpecFlowProjectMarsLanguagesSkills\\SpecFlowProjectMarsLanguagesSkills.csproj",
         "packagesPath": "C:\\Users\\mohan\\.nuget\\packages\\",
-        "outputPath": "C:\\Smitha\\Internship\\Projects\\SpecFlowProjectMarsLanguagesSkills\\obj\\",
+        "outputPath": "C:\\Smitha\\OnboardingTask\\SpecFlowProjectMarsLanguagesSkills\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mohan\\AppData\\Roaming\\NuGet\\NuGet.Config",
